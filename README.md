@@ -12,6 +12,8 @@
 };
  
 2. Fun with ES6 Classes #1 - People, people, people
+
+
 class Person {
   constructor(
     firstName = "John",
